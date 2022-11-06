@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MUGUNTHAN</h1>
 <h3 align="center">I am from India</h3>
 
-- 🔭 I’m currently working on **ANDROID APP DEVELOPMENT**
+- 🔭 I’m currently working on **PYTHON PROJECTS**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **PYTHON**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MugunthanRDJ/](https://github.com/MugunthanRDJ/)
+- 👨‍💻 All of my projects are available at [https://github.com/MugunthanRDJ/](https://github.com/MuguDEV/)
 
 - 📫 How to reach me **https://t.me/mugunthan_10b**
 
