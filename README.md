@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PYTHON**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MugunthanRDJ/](https://github.com/MuguDEV/)
+- 👨‍💻 All of my projects are available at [https://github.com/MuguDEV/](https://github.com/MuguDEV/)
 
 - 📫 How to reach me **https://t.me/mugunthan_10b**
 
