@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MuguDEV/](https://github.com/MuguDEV/)
 
-- 📫 How to reach me **https://t.me/mugunthan_10b**
+- 📫 How to reach me **https://t.me/mugundev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
